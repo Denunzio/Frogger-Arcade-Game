@@ -6,7 +6,7 @@ Game is working! based on the classic frogger arcade game 1981 that was an insta
 Instructions to load game locally:
 
 If you would like to install this game on your device you can clone or download here:
-
+https://github.com/Denunzio/Frogger-Arcade-Game.git
 Once you have the project downloaded all you have to do is launch the index.html file in your browser
 Clone project
 
