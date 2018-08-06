@@ -1,7 +1,7 @@
 # Frogger-Arcade-Game
 frontend-nanodegree-arcade-game vs. 3
 
-Game is working! based on the classic frogger arcade game 1981 that was an instant success!
+Basic Game is working! based on the classic frogger arcade game 1981 that was an instant success!
 
 Instructions to load game locally:
 
