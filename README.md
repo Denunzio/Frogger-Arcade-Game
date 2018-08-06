@@ -9,6 +9,8 @@ If you would like to install this game on your device you can clone or download 
 https://github.com/Denunzio/Frogger-Arcade-Game.git
 Once you have the project downloaded all you have to do is launch the index.html file in your browser
 
+What to Play? Link to play my game:
+https://denunzio.github.io/
 
 How to PLAY the game:
 
